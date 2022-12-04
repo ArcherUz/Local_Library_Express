@@ -35,6 +35,11 @@ exports.author_update_get = (req, res) =>{
     res.send('NOT IMPLEMENTED: Author update GET');
 };
 
-//
+//Handle Author update on POST
+exports.author_update_post = (req, res) =>{
+    res.send("NOT IMPLEMENTED: Author update POST");
+};
+
+
 
 
