@@ -1,6 +1,5 @@
 # Express web framework based on Node.js/Javascript #
-I followed a online tutorial to develop a website to manage the catalog for a local library.
-### It includes: ###
+I followed a online tutorial to develop a website to manage the catalog for a local library. It includes: 
 #### Use the Express Application Generator tool to create a skeleton website and application. ####
 #### Start and stop the Node web server. ####
 #### Use a database to store your application's data. ####
