@@ -9,4 +9,4 @@ I followed a online tutorial to develop a website to manage the catalog for a lo
 Express tutorial on https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Tutorial_local_library_website
 
 ## To run the website: ##
-go the express-locallibrary-tutorial directory, in command, use: npm start
+Go the express-locallibrary-tutorial directory, in command, use: npm start
